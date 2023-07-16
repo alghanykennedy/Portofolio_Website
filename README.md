@@ -42,3 +42,25 @@ Footer:
 ![image](https://github.com/alghanykennedy/Portofolio_Website/assets/82708330/76ab074c-e341-4ca2-9a04-6371331c996b)
 
 The website's footer includes a copyright statement, indicating that all rights are reserved by Alghany Kennedy Adam in the year 2023. Additionally, a handy scroll-to-top button is provided, allowing users to quickly navigate back to the top of the page.
+
+## Project Structure
+```
+|-- PORTOFOLIO
+    |-- css
+        |-- style.css 
+    |-- images
+    |-- js
+        |-- script.js
+    |-- index.html
+```
+
+## How to Run the App
+
+- Clone the repository
+- Ensure you have web development installed and set up
+- Run `live server` as extension to launch a development local Server with live reload feature for static & dynamic pages
+
+## Technologies and Packages Used
+
+- HTML 5, CSS 3, JavaScript
+- IDE VSCode
